@@ -3,7 +3,7 @@
 - ✉️ You can contact me at [contact@khalilchettaoui.space](mailto:contact@khalilchettaoui.space)
 - 🧠 I'm learning IoT and trying stuff with Raspberry-Pis
 - 🌲 I love hiking and swimming if it's not freezing after a long week of work
-<img src="./hiking.svg" alt="gopher hiking" width="180"/>
+<img src="./gopher.svg" alt="gopher hiking" width="180"/>
 
 ### Stack
 
