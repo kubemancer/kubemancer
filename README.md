@@ -1,4 +1,4 @@
-## Hi 👋 My name is Khalil
+## Hi 👋 
 ### About me
 - ✉️ You can contact me at [contact@khalilchettaoui.space](mailto:contact@khalilchettaoui.space)
 - 🧠 I'm learning IoT and trying stuff with Raspberry-Pis
