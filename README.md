@@ -1,6 +1,6 @@
 ## Hi 👋 
 ### About me
-- Im currently an SRE|Platform Engineer
+- Im currently an SRE | Platform Engineer
 - You can contact me at [contact@khalilchettaoui.space](mailto:contact@khalilchettaoui.space)
 - I'm learning IoT and trying stuff with Raspberry-Pis
 - I love hiking, biking and swimming
