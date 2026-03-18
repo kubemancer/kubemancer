@@ -2,7 +2,7 @@
 ### About me
 - ✉️ You can contact me at [contact@khalilchettaoui.space](mailto:contact@khalilchettaoui.space)
 - 🧠 I'm learning IoT and trying stuff with Raspberry-Pis
-- 🌲 I love hiking and swimming if it's not freezing after a long week of work
+- 🌲 I love hiking, biking and swimming
 
 
 ### Stack
