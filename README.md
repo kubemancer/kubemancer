@@ -6,7 +6,7 @@
 - I love hiking, biking and swimming
 
 
-### Stack
+[### Stack
 
 <p align="left" class="flex">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -27,4 +27,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Heroku" /></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://pub-1458474669ee456389205cda37cb3e7d.r2.dev/amazon-web-services-2.svg" width="36" height="36" alt="AWS" /></a>
  <a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/DigitalOcean_icon.svg" width="36" height="36" alt="Digitalocean" /></a>
-</p>
+</p>](url)
