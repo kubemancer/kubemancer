@@ -7,4 +7,4 @@
 
 ### Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,python,go,react,vue,nextjs,nuxtjs,nodejs,mongodb,postgres,linux,docker,kubernetes,git,aws,gcp)
+![My Skills](https://skillicons.dev/icons?i=js,python,go,react,vue,nodejs,mongodb,postgres,linux,docker,kubernetes,git,aws,gcp,do,hetzner)
